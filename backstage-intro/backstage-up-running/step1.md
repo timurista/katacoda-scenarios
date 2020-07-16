@@ -9,8 +9,9 @@
 3. Refresh bash to get yarn
 `source ~/.bashrc && cd backstage && yarn`{{execute}}
 
-3. serve content
-`yarn start`{{execute}}
+4. build docker file
 
-4. Check the webpage
+`yarn docker-build:all`{{execute}}
+
+5. Check the webpage
 `https://[[HOST_SUBDOMAIN]]-3000-[[KATACODA_HOST]].environments.katacoda.com`{{copy}}
