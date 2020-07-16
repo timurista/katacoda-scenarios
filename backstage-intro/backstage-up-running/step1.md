@@ -13,4 +13,4 @@
 `yarn start`{{execute}}
 
 4. Check the webpage
-`https://[[HOST_SUBDOMAIN]]-8080-[[KATACODA_HOST]].environments.katacoda.com`{{open}}
+`https://[[HOST_SUBDOMAIN]]-3000-[[KATACODA_HOST]].environments.katacoda.com`{{copy}}
