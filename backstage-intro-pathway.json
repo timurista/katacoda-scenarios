@@ -1,0 +1,11 @@
+{
+  "title": "Introduction to Backstage",
+  "description": "An Introduction to backstage and getting up and runing",
+  "courses": [
+    {
+      "course_id": "backstage-up-running",
+      "title": "Get Backstage up and running",
+      "description": "Setup backstage and get it working"
+    }
+  ]
+}
