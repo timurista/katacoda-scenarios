@@ -18,3 +18,8 @@ yarn
 ```
 yarn start
 ```{{execute}}
+
+4. Check the webpage
+```
+https://[[HOST_SUBDOMAIN]]-8080-[[KATACODA_HOST]].environments.katacoda.com
+```
