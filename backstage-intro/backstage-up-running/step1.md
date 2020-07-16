@@ -8,8 +8,13 @@
 curl -o- -L https://yarnpkg.com/install.sh | bash
 
 # refresh bash to get yarn
-source ~./bashrc 
+source ~/.bashrc 
 
 cd backstage
 yarn
+```{{execute}}
+
+3. serve content
+```
+yarn start
 ```{{execute}}

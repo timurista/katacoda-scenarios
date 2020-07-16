@@ -34,7 +34,12 @@
     }
   },
   "environment": {
-    "uilayout": "editor-terminal"
+    "showdashboard": true,
+    "dashboards": [
+      {"name": "Backstage", "href": "https://[[HOST_SUBDOMAIN]]-8080-[[KATACODA_HOST]].environments.katacoda.com"},
+      {"name": "Port 8080", "port": 8080}
+    ],
+    "uilayout": "terminal-iframe"
   },
   "backend": {
     "imageid": "javascript"
