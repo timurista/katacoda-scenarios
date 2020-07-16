@@ -5,7 +5,7 @@
 
 2. Get yarn and install basic packages
 ```
-curl -o- -L https://yarnpkg.com/install.sh | bash'
+curl -o- -L https://yarnpkg.com/install.sh | bash
 
 # refresh bash to get yarn
 source ~./bashrc 
